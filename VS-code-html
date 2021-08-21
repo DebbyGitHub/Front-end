@@ -15,7 +15,7 @@
 
             </header>
 
-            <h1><span>Using DNA Steganography </span>techniques for security</h1>
+            <h1><span>Using your unique DNA </span> to encrypt any message</h1>
             
             <h2>Encryption </h2>
 
@@ -32,7 +32,7 @@
                         
                         <label for="hidden_data">Upload your secret message:</label>
                         <input type="file" name = "hidden_data" id="hidden_data">
-                        <p>Please upload .docx files or .pdf files only</p>
+                        <p>Please upload .fasta files only for your genetic data </p>
 
                     </div>
 
