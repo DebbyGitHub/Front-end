@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="hero-bg">
+        <section class="top">
+            <header>
+                <a href="#">DNAcode</a>
+
+            </header>
+
+            <h1><span>Using DNA Steganography </span>techniques for security</h1>
+            
+            <h2>Encryption </h2>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque exercitationem iure iusto aperiam similique quidem praesentium, optio aspernatur voluptates accusantium.</p>
+
+            <div class="form-container">
+                <form action="">
+                    <div class="form-left">
+                        <label for="genetic_data">Upload your genetic data:</label>
+                        <input type="file" name = "genetic_data" id="genetic_data">
+                        
+                    </div>
+                    <div class="form-left">
+                        
+                        <label for="hidden_data">Upload your secret message:</label>
+                        <input type="file" name = "hidden_data" id="hidden_data">
+                        <p>Please upload .docx files or .pdf files only</p>
+
+                    </div>
+
+                    <p>Press button below to encrypt your data!</p>
+                    <input type="button" value="Encrypt data">
+                </form>
+            </div>
+        </section>
+    </div>
+
+    <section class="decryption">
+        <div class="right-col">
+            <h2>Decryption </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque exercitationem iure iusto aperiam similique quidem praesentium, optio aspernatur voluptates accusantium.</p>
+        </div>
+        <img src="images/key.jpg" alt="Picture of a key">
+
+
+    </section>
+
+
+
+</body>
+</html>
